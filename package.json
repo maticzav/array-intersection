@@ -1,6 +1,6 @@
 {
   "name": "array-intersection",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Get an intersection of multiple arrays and account objects.",
   "main": "index.js",
   "repository": "https://github.com/maticzav/array-intersection",
