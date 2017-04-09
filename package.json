@@ -1,9 +1,9 @@
 {
-  "name": "array-intersection",
+  "name": "arr-intersection",
   "version": "1.0.0",
   "description": "Get an intersection of multiple arrays and account objects.",
   "main": "index.js",
-  "repository": "https://github.com/maticzav/array-intersection",
+  "repository": "https://github.com/maticzav/arr-intersection",
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
   "license": "MIT",
   "scripts": {

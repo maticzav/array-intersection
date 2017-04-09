@@ -1,4 +1,4 @@
-# array-intersection [![Build Status](https://travis-ci.org/maticzav/array-intersection.svg?branch=master)](https://travis-ci.org/maticzav/array-intersection)
+# arr-intersection [![Build Status](https://travis-ci.org/maticzav/arr-intersection.svg?branch=master)](https://travis-ci.org/maticzav/arr-intersection)
 
 > Get the intersection of multiple arrays.
 > Works with objects and array of objects etc. (It works!)
@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save array-intersection
+$ npm install --save arr-intersection
 ```
 
 
