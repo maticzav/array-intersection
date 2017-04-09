@@ -1,4 +1,4 @@
-# array-intersection
+# array-intersection [![Build Status](https://travis-ci.org/maticzav/array-intersection.svg?branch=master)](https://travis-ci.org/maticzav/array-intersection)
 
 > Get the intersection of multiple arrays.
 > Works with objects and array of objects etc. (It works!)
